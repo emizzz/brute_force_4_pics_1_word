@@ -2,7 +2,6 @@
                          ---BRUTE FORCE 4 PICS 1 WORD---
     A STUPID script that allows you to find a word in the game "4 Pics 1 Word".
 
-
 '''
 
 import csv
@@ -15,7 +14,6 @@ dataset = []
 target = []
 
 try:
-
     my_word = input("Write here the available characters (example: kacjucdvumuo): ")
     length = int(input("How long is the word? (example: 6): "))
 
